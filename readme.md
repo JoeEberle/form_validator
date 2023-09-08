@@ -4,10 +4,6 @@
 
 ## This project demonstrates how to Validate if a electronic form has all the essential components filled in !! 
 
-![Sample Logo](sample.png)
-
-## Validate if a electronic form has all the essential components filled in. 
- 
 
 ![Developer Logo](developer.png)
 
@@ -21,7 +17,6 @@
 - Automate data profiling tasks 
 - Makes complex Data simpler
  
-
 
 ![sample Logo](sample.png)
 
