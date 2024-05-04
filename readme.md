@@ -38,4 +38,4 @@ To get started with the **Form Validator** solution repository, follow these ste
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](form_validator.png)  <br>
+    ## Deliverables or Figures![additional_image](form_validator.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
