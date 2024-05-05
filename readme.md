@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Form Validator - Solution for Form Validator
 Solution for Form Validator
 
@@ -9,8 +11,6 @@ Welcome to the solution **Form Validator** - an example for your projects
 Solution for Form Validator
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
