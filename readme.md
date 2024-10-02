@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Form Validator - nan
-nan
+# Form Validator - Solution for Form Validator
+Solution for Form Validator
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Form Validator** - an example for your projects
 
-nan
+Solution for Form Validator
 
 ![Image image_filename](sample.png)
 
