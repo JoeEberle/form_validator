@@ -4,21 +4,11 @@
 
 ## Solution for Form Validator
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Form Validator** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Form Validator** 
 
 Solution for Form Validator
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
